@@ -1,6 +1,3 @@
-Here is your 2FA-Python-Prototype README.md completely restructured to match the highly detailed, professional, and comprehensive layout of your BPO Company Monitoring System template.
-
-Markdown
 # 🔐 2FA-Python-Prototype System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -129,9 +126,6 @@ Push to the branch (git push origin feature/NewFeature)
 
 Open a Pull Request
 
-📄 License
-This project is available for educational and commercial use. Please review the license file for detailed terms.
-
 🚧 Future Enhancements
 [ ] Add SQLite integration to simulate storing users and secrets
 
@@ -143,29 +137,6 @@ This project is available for educational and commercial use. Please review the 
 
 [ ] Support SHA-256 and SHA-512 cryptographic hashes
 
-👨‍💻 Developer
-[Your Name / Neil Alvin Medallon]
-
-Developer and Engineer specializing in:
-
-System Security Logic
-
-Python Application Prototyping
-
-Backend Architecture
-
-🔗 Connect With Me
-GitHub: @YourUsername
-
-LinkedIn: Your Profile
-
-Email: your.email@example.com
-
-📞 Support
-For technical support or inquiries:
-
-🐙 GitHub Issues: Report a bug
-
 🙏 Acknowledgments
 Built to demonstrate core RFC 6238 implementation
 
@@ -175,4 +146,3 @@ Special thanks to the maintainers of the pyotp library
 
 ⭐ If you find this project useful, please consider giving it a star!
 
-Made with ❤️ by [Your Name]
